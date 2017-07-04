@@ -1,0 +1,10 @@
+test1
+test2 commited in master
+test3 commited in develop
+test4 changes in master after merge
+changes in develop branch
+<<<<<<< Updated upstream
+new changes
+=======
+jjj
+>>>>>>> Stashed changes
